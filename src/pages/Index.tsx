@@ -30,7 +30,7 @@ const Index = () => {
           <BlogCard post={featured[0]} featured />
         </section>
 
-        <AdsterraBanner width={728} height={90} className="container mx-auto px-4" />
+        <AdsterraBanner className="container mx-auto px-4" />
 
         {/* Featured row */}
         <section className="container mx-auto px-4 py-8">
@@ -58,7 +58,7 @@ const Index = () => {
           </div>
         </section>
 
-        <AdsterraBanner width={728} height={90} className="container mx-auto px-4" />
+        <AdsterraBanner className="container mx-auto px-4" />
 
         {/* Recent posts */}
         <section className="container mx-auto px-4 py-8">

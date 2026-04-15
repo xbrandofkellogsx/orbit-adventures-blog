@@ -44,7 +44,7 @@ const BlogList = () => {
           ))}
         </div>
 
-        <AdsterraBanner width={728} height={90} />
+        <AdsterraBanner />
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
           {paginated.map((post, i) => (
@@ -52,7 +52,7 @@ const BlogList = () => {
               <BlogCard post={post} />
               {(i + 1) % 6 === 0 && i < paginated.length - 1 && (
                 <div className="col-span-full mt-6">
-                  <AdsterraBanner width={728} height={90} />
+                  <AdsterraBanner />
                 </div>
               )}
             </div>
