@@ -1,37 +1,27 @@
 import { useEffect, useRef } from "react";
 
 interface AdsterraBannerProps {
-  adKey?: string;
-  width?: number;
-  height?: number;
   className?: string;
 }
 
-const AdsterraBanner = ({ adKey = "YOUR_ADSTERRA_AD_KEY", width = 728, height = 90, className = "" }: AdsterraBannerProps) => {
+const AdsterraBanner = ({ className = "" }: AdsterraBannerProps) => {
   const adRef = useRef<HTMLDivElement>(null);
+  const loaded = useRef(false);
 
   useEffect(() => {
-    if (!adRef.current || adKey === "YOUR_ADSTERRA_AD_KEY") return;
+    if (!adRef.current || loaded.current) return;
+    loaded.current = true;
 
     try {
+      const container = document.createElement("div");
+      container.id = "container-389b7e64761be5ea556e48635439e0fb";
+
       const script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src = `//www.highperformanceformat.com/${adKey}/invoke.js`;
       script.async = true;
+      script.setAttribute("data-cfasync", "false");
+      script.src = "https://pl29159509.profitablecpmratenetwork.com/389b7e64761be5ea556e48635439e0fb/invoke.js";
 
-      const conf = document.createElement("script");
-      conf.type = "text/javascript";
-      conf.innerHTML = `
-        atOptions = {
-          'key' : '${adKey}',
-          'format' : 'iframe',
-          'height' : ${height},
-          'width' : ${width},
-          'params' : {}
-        };
-      `;
-
-      adRef.current.appendChild(conf);
+      adRef.current.appendChild(container);
       adRef.current.appendChild(script);
     } catch (e) {
       console.error("Adsterra ad failed to load:", e);
@@ -42,15 +32,9 @@ const AdsterraBanner = ({ adKey = "YOUR_ADSTERRA_AD_KEY", width = 728, height = 
         adRef.current.innerHTML = "";
       }
     };
-  }, [adKey, width, height]);
+  }, []);
 
-  return (
-    <div className={`ad-container ${className}`} ref={adRef}>
-      {adKey === "YOUR_ADSTERRA_AD_KEY" && (
-        <span className="text-muted-foreground text-sm">Ad Placement — Configure your Adsterra key</span>
-      )}
-    </div>
-  );
+  return <div className={`ad-container ${className}`} ref={adRef} />;
 };
 
 export default AdsterraBanner;
