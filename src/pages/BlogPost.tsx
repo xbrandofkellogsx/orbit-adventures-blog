@@ -56,13 +56,13 @@ const BlogPost = () => {
           </div>
 
           {/* Top ad */}
-          <AdsterraBanner width={728} height={90} />
+          <AdsterraBanner />
 
           {/* First half of content */}
           <div className="blog-prose mt-8" dangerouslySetInnerHTML={{ __html: firstHalf }} />
 
           {/* Mid-article ad */}
-          <AdsterraBanner width={728} height={250} />
+          <AdsterraBanner />
 
           {/* Second half of content */}
           <div className="blog-prose" dangerouslySetInnerHTML={{ __html: secondHalf }} />
@@ -77,7 +77,7 @@ const BlogPost = () => {
           </div>
 
           {/* Bottom ad */}
-          <AdsterraBanner width={728} height={90} className="mt-6" />
+          <AdsterraBanner className="mt-6" />
         </article>
 
         {/* Related posts */}
