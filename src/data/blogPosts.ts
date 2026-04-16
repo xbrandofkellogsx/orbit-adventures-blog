@@ -28,7 +28,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-01",
     "readTime": 8,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000000000?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 2,
@@ -45,7 +45,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-02",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000007919?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 3,
@@ -62,7 +62,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-03",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000015838?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 4,
@@ -79,7 +79,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-04",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000023757?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 5,
@@ -96,7 +96,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-05",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000031676?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 6,
@@ -113,7 +113,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-06",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000039595?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501785888108-9e926e3f2f07?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 7,
@@ -130,7 +130,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-07",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000047514?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1473163928189-364b2c8e1135?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 8,
@@ -147,7 +147,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-08",
     "readTime": 7,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000055433?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 9,
@@ -164,7 +164,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-09",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000063352?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 10,
@@ -181,7 +181,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-10",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000071271?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 11,
@@ -198,7 +198,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-11",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000079190?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 12,
@@ -215,7 +215,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-12",
     "readTime": 5,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000087109?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 13,
@@ -232,7 +232,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-13",
     "readTime": 12,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000095028?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 14,
@@ -249,7 +249,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-14",
     "readTime": 10,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000102947?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 15,
@@ -266,7 +266,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-15",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000110866?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 16,
@@ -283,7 +283,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-16",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000118785?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 17,
@@ -300,7 +300,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-17",
     "readTime": 11,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000126704?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 18,
@@ -317,7 +317,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-18",
     "readTime": 11,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000134623?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 19,
@@ -334,7 +334,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-19",
     "readTime": 5,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000142542?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 20,
@@ -351,7 +351,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-20",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000150461?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 21,
@@ -368,7 +368,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-21",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000158380?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 22,
@@ -385,7 +385,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-22",
     "readTime": 6,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000166299?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 23,
@@ -402,7 +402,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-23",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000174218?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 24,
@@ -419,7 +419,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-24",
     "readTime": 9,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000182137?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 25,
@@ -436,7 +436,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-25",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000190056?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 26,
@@ -453,7 +453,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-26",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000197975?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 27,
@@ -470,7 +470,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-27",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000205894?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 28,
@@ -487,7 +487,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-28",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000213813?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 29,
@@ -504,7 +504,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-01",
     "readTime": 5,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000221732?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 30,
@@ -521,7 +521,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-02",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000229651?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1559827260158-67a100e4afe2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 31,
@@ -538,7 +538,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-03",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000237570?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 32,
@@ -555,7 +555,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-04",
     "readTime": 8,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000245489?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470770841497-4c76d67e0e7c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 33,
@@ -572,7 +572,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-05",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000253408?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 34,
@@ -589,7 +589,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-06",
     "readTime": 10,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000261327?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 35,
@@ -606,7 +606,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-07",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000269246?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 36,
@@ -623,7 +623,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-08",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000277165?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 37,
@@ -640,7 +640,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-09",
     "readTime": 12,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000285084?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 38,
@@ -657,7 +657,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-10",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000293003?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1494783367193-149034c48e58?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 39,
@@ -674,7 +674,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-11",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000300922?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 40,
@@ -691,7 +691,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-12",
     "readTime": 9,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000308841?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 41,
@@ -708,7 +708,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-13",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000316760?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdbc86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 42,
@@ -725,7 +725,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-14",
     "readTime": 8,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000324679?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 43,
@@ -742,7 +742,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-15",
     "readTime": 9,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000332598?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 44,
@@ -759,7 +759,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-16",
     "readTime": 11,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000340517?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504681869696-d977211a5f4c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 45,
@@ -776,7 +776,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-17",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000348436?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 46,
@@ -793,7 +793,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-18",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000356355?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496531693913-c0ead5bffe86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 47,
@@ -810,7 +810,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-19",
     "readTime": 12,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000364274?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1503220317375-aabd7845b2e4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 48,
@@ -827,7 +827,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-20",
     "readTime": 9,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000372193?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 49,
@@ -844,7 +844,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-21",
     "readTime": 5,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000380112?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 50,
@@ -861,7 +861,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-22",
     "readTime": 8,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000388031?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1468413253725-0d5181091126?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 51,
@@ -878,7 +878,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-23",
     "readTime": 6,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000395950?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 52,
@@ -895,7 +895,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-24",
     "readTime": 6,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000403869?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 53,
@@ -912,7 +912,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-25",
     "readTime": 8,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000411788?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 54,
@@ -929,7 +929,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-26",
     "readTime": 8,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000419707?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 55,
@@ -946,7 +946,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-27",
     "readTime": 9,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000427626?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 56,
@@ -963,7 +963,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-28",
     "readTime": 8,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000435545?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501785888108-9e926e3f2f07?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 57,
@@ -980,7 +980,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-01",
     "readTime": 12,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000443464?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1473163928189-364b2c8e1135?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 58,
@@ -997,7 +997,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-02",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000451383?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 59,
@@ -1014,7 +1014,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-03",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000459302?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 60,
@@ -1031,7 +1031,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-04",
     "readTime": 12,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000467221?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 61,
@@ -1048,7 +1048,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-05",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000475140?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 62,
@@ -1065,7 +1065,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-06",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000483059?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 63,
@@ -1082,7 +1082,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-07",
     "readTime": 9,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000490978?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 64,
@@ -1099,7 +1099,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-08",
     "readTime": 9,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000498897?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 65,
@@ -1116,7 +1116,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-09",
     "readTime": 11,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000506816?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 66,
@@ -1133,7 +1133,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-10",
     "readTime": 10,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000514735?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 67,
@@ -1150,7 +1150,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-11",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000522654?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 68,
@@ -1167,7 +1167,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-12",
     "readTime": 9,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000530573?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 69,
@@ -1184,7 +1184,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-13",
     "readTime": 6,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000538492?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 70,
@@ -1201,7 +1201,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-14",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000546411?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 71,
@@ -1218,7 +1218,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-15",
     "readTime": 6,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000554330?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 72,
@@ -1235,7 +1235,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-16",
     "readTime": 8,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000562249?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 73,
@@ -1252,7 +1252,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-17",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000570168?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 74,
@@ -1269,7 +1269,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-18",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000578087?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 75,
@@ -1286,7 +1286,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-19",
     "readTime": 6,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000586006?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 76,
@@ -1303,7 +1303,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-20",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000593925?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 77,
@@ -1320,7 +1320,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-21",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000601844?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 78,
@@ -1337,7 +1337,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-22",
     "readTime": 9,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000609763?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 79,
@@ -1354,7 +1354,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-23",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000617682?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 80,
@@ -1371,7 +1371,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-24",
     "readTime": 9,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000625601?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1559827260158-67a100e4afe2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 81,
@@ -1388,7 +1388,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-25",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000633520?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 82,
@@ -1405,7 +1405,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-26",
     "readTime": 6,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000641439?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470770841497-4c76d67e0e7c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 83,
@@ -1422,7 +1422,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-27",
     "readTime": 11,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000649358?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 84,
@@ -1439,7 +1439,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-28",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000657277?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 85,
@@ -1456,7 +1456,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-01",
     "readTime": 12,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000665196?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 86,
@@ -1473,7 +1473,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-02",
     "readTime": 10,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000673115?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 87,
@@ -1490,7 +1490,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-03",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000681034?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 88,
@@ -1507,7 +1507,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-04",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000688953?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1494783367193-149034c48e58?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 89,
@@ -1524,7 +1524,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-05-05",
     "readTime": 12,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000696872?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 90,
@@ -1541,7 +1541,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-06-06",
     "readTime": 12,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000704791?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 91,
@@ -1558,7 +1558,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-07-07",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000712710?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdbc86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 92,
@@ -1575,7 +1575,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-08-08",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000720629?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 93,
@@ -1592,7 +1592,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-09-09",
     "readTime": 6,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000728548?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 94,
@@ -1609,7 +1609,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-10-10",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000736467?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504681869696-d977211a5f4c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 95,
@@ -1626,7 +1626,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-11-11",
     "readTime": 10,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000744386?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 96,
@@ -1643,7 +1643,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-12-12",
     "readTime": 12,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000752305?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496531693913-c0ead5bffe86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 97,
@@ -1660,7 +1660,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-01-13",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000760224?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1503220317375-aabd7845b2e4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 98,
@@ -1677,7 +1677,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-02-14",
     "readTime": 7,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000768143?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 99,
@@ -1694,7 +1694,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-03-15",
     "readTime": 9,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000776062?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 100,
@@ -1711,7 +1711,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2025-04-16",
     "readTime": 5,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000783981?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1468413253725-0d5181091126?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 101,
@@ -1728,7 +1728,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-17",
     "readTime": 5,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000791900?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 102,
@@ -1745,7 +1745,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-18",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000799819?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 103,
@@ -1762,7 +1762,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-19",
     "readTime": 8,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000807738?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 104,
@@ -1779,7 +1779,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-20",
     "readTime": 5,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000815657?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 105,
@@ -1796,7 +1796,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-21",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000823576?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 106,
@@ -1813,7 +1813,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-22",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000831495?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501785888108-9e926e3f2f07?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 107,
@@ -1830,7 +1830,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-23",
     "readTime": 5,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000839414?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1473163928189-364b2c8e1135?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 108,
@@ -1847,7 +1847,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-24",
     "readTime": 7,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000847333?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 109,
@@ -1864,7 +1864,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-25",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000855252?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 110,
@@ -1881,7 +1881,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-26",
     "readTime": 11,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000863171?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 111,
@@ -1898,7 +1898,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-27",
     "readTime": 5,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000871090?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 112,
@@ -1915,7 +1915,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-28",
     "readTime": 10,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000879009?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 113,
@@ -1932,7 +1932,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-01",
     "readTime": 6,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000886928?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 114,
@@ -1949,7 +1949,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-02",
     "readTime": 10,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000894847?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 115,
@@ -1966,7 +1966,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-03",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000902766?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 116,
@@ -1983,7 +1983,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-04",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000910685?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 117,
@@ -2000,7 +2000,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-05",
     "readTime": 11,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000918604?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 118,
@@ -2017,7 +2017,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-06",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000926523?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 119,
@@ -2034,7 +2034,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-07",
     "readTime": 8,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000934442?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 120,
@@ -2051,7 +2051,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-08",
     "readTime": 5,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000942361?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 121,
@@ -2068,7 +2068,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-09",
     "readTime": 10,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000950280?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 122,
@@ -2085,7 +2085,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-10",
     "readTime": 5,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500000958199?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 123,
@@ -2102,7 +2102,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-11",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500000966118?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 124,
@@ -2119,7 +2119,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-12",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500000974037?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 125,
@@ -2136,7 +2136,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-13",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500000981956?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 126,
@@ -2153,7 +2153,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-14",
     "readTime": 11,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500000989875?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 127,
@@ -2170,7 +2170,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-15",
     "readTime": 5,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500000997794?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 128,
@@ -2187,7 +2187,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-16",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001005713?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 129,
@@ -2204,7 +2204,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-17",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001013632?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 130,
@@ -2221,7 +2221,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-18",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001021551?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1559827260158-67a100e4afe2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 131,
@@ -2238,7 +2238,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-19",
     "readTime": 11,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001029470?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 132,
@@ -2255,7 +2255,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-20",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001037389?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470770841497-4c76d67e0e7c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 133,
@@ -2272,7 +2272,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-21",
     "readTime": 9,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001045308?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 134,
@@ -2289,7 +2289,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-22",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001053227?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 135,
@@ -2306,7 +2306,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-23",
     "readTime": 5,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001061146?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 136,
@@ -2323,7 +2323,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-24",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001069065?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 137,
@@ -2340,7 +2340,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-25",
     "readTime": 8,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001076984?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 138,
@@ -2357,7 +2357,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-26",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001084903?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1494783367193-149034c48e58?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 139,
@@ -2374,7 +2374,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-27",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001092822?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 140,
@@ -2391,7 +2391,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-28",
     "readTime": 11,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001100741?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 141,
@@ -2408,7 +2408,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-01",
     "readTime": 11,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001108660?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdbc86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 142,
@@ -2425,7 +2425,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-02",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001116579?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 143,
@@ -2442,7 +2442,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-03",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001124498?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 144,
@@ -2459,7 +2459,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-04",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001132417?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504681869696-d977211a5f4c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 145,
@@ -2476,7 +2476,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-05",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001140336?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 146,
@@ -2493,7 +2493,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-06",
     "readTime": 9,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001148255?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496531693913-c0ead5bffe86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 147,
@@ -2510,7 +2510,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-07",
     "readTime": 12,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001156174?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1503220317375-aabd7845b2e4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 148,
@@ -2527,7 +2527,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-08",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001164093?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 149,
@@ -2544,7 +2544,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-09",
     "readTime": 12,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001172012?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 150,
@@ -2561,7 +2561,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-10",
     "readTime": 9,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001179931?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1468413253725-0d5181091126?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 151,
@@ -2578,7 +2578,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-11",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001187850?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 152,
@@ -2595,7 +2595,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-12",
     "readTime": 5,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001195769?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 153,
@@ -2612,7 +2612,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-13",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001203688?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 154,
@@ -2629,7 +2629,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-14",
     "readTime": 8,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001211607?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 155,
@@ -2646,7 +2646,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-15",
     "readTime": 6,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001219526?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 156,
@@ -2663,7 +2663,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-16",
     "readTime": 9,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001227445?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501785888108-9e926e3f2f07?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 157,
@@ -2680,7 +2680,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-17",
     "readTime": 12,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001235364?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1473163928189-364b2c8e1135?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 158,
@@ -2697,7 +2697,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-18",
     "readTime": 6,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001243283?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 159,
@@ -2714,7 +2714,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-19",
     "readTime": 8,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001251202?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 160,
@@ -2731,7 +2731,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-20",
     "readTime": 10,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001259121?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 161,
@@ -2748,7 +2748,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-21",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001267040?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 162,
@@ -2765,7 +2765,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-22",
     "readTime": 12,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001274959?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 163,
@@ -2782,7 +2782,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-23",
     "readTime": 11,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001282878?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 164,
@@ -2799,7 +2799,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-24",
     "readTime": 9,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001290797?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 165,
@@ -2816,7 +2816,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-25",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001298716?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 166,
@@ -2833,7 +2833,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-26",
     "readTime": 7,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001306635?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 167,
@@ -2850,7 +2850,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-27",
     "readTime": 5,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001314554?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 168,
@@ -2867,7 +2867,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-28",
     "readTime": 5,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001322473?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 169,
@@ -2884,7 +2884,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-01",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001330392?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 170,
@@ -2901,7 +2901,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-02",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001338311?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1476900164809-ff19b8ae5968?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 171,
@@ -2918,7 +2918,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-03",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001346230?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 172,
@@ -2935,7 +2935,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-04",
     "readTime": 12,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001354149?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 173,
@@ -2952,7 +2952,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-05",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001362068?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1523906834658-6e24ef2386f9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 174,
@@ -2969,7 +2969,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-06",
     "readTime": 6,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001369987?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 175,
@@ -2986,7 +2986,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-07",
     "readTime": 5,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001377906?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 176,
@@ -3003,7 +3003,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-08",
     "readTime": 7,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001385825?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 177,
@@ -3020,7 +3020,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-09",
     "readTime": 6,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001393744?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 178,
@@ -3037,7 +3037,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-10",
     "readTime": 11,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001401663?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 179,
@@ -3054,7 +3054,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-11",
     "readTime": 12,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001409582?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 180,
@@ -3071,7 +3071,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-12",
     "readTime": 7,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001417501?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1559827260158-67a100e4afe2?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 181,
@@ -3088,7 +3088,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-13",
     "readTime": 6,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001425420?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 182,
@@ -3105,7 +3105,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-14",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001433339?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470770841497-4c76d67e0e7c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 183,
@@ -3122,7 +3122,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-15",
     "readTime": 5,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001441258?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 184,
@@ -3139,7 +3139,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-16",
     "readTime": 5,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001449177?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1492136344046-866c85e0bf04?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 185,
@@ -3156,7 +3156,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-17",
     "readTime": 11,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001457096?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 186,
@@ -3173,7 +3173,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-18",
     "readTime": 12,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001465015?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 187,
@@ -3190,7 +3190,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-19",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001472934?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 188,
@@ -3207,7 +3207,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-20",
     "readTime": 12,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001480853?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1494783367193-149034c48e58?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 189,
@@ -3224,7 +3224,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-09-21",
     "readTime": 7,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001488772?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 190,
@@ -3241,7 +3241,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-10-22",
     "readTime": 10,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001496691?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 191,
@@ -3258,7 +3258,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-11-23",
     "readTime": 7,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001504610?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1518509562904-e7ef99cdbc86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 192,
@@ -3275,7 +3275,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-12-24",
     "readTime": 5,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001512529?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 193,
@@ -3292,7 +3292,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-01-25",
     "readTime": 12,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001520448?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 194,
@@ -3309,7 +3309,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-02-26",
     "readTime": 5,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001528367?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1504681869696-d977211a5f4c?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 195,
@@ -3326,7 +3326,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-03-27",
     "readTime": 10,
     "author": "Sofia Reyes",
-    "coverImage": "https://images.unsplash.com/photo-1500001536286?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 196,
@@ -3343,7 +3343,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-04-28",
     "readTime": 5,
     "author": "Amir Hassan",
-    "coverImage": "https://images.unsplash.com/photo-1500001544205?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1496531693913-c0ead5bffe86?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 197,
@@ -3360,7 +3360,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-05-01",
     "readTime": 9,
     "author": "Lena Johansson",
-    "coverImage": "https://images.unsplash.com/photo-1500001552124?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1503220317375-aabd7845b2e4?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 198,
@@ -3377,7 +3377,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-06-02",
     "readTime": 7,
     "author": "Marcus Chen",
-    "coverImage": "https://images.unsplash.com/photo-1500001560043?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1560347876-aeef00ee58a1?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 199,
@@ -3394,7 +3394,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-07-03",
     "readTime": 7,
     "author": "Elena Marchetti",
-    "coverImage": "https://images.unsplash.com/photo-1500001567962?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=500&fit=crop&auto=format"
   },
   {
     "id": 200,
@@ -3411,7 +3411,7 @@ export const blogPosts: BlogPost[] = [
     "date": "2026-08-04",
     "readTime": 10,
     "author": "James Okafor",
-    "coverImage": "https://images.unsplash.com/photo-1500001575881?w=800&h=500&fit=crop&auto=format"
+    "coverImage": "https://images.unsplash.com/photo-1468413253725-0d5181091126?w=800&h=500&fit=crop&auto=format"
   }
 ];
 
